@@ -1,4 +1,4 @@
-# prova_n2
+# Prova_n2 Desenvolvimento Mobile
 
 Projeto flutter que consome uma API do Notion, app que uso para anotações e para me organizar no dia-a-dia
 criei uma tabela onde posso inserir os valores dos meus gastos selecionando o tipo do gasto, o valor e a 
